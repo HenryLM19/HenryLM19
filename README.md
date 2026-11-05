@@ -1,18 +1,18 @@
 # Henry Gabriel Silva Ayala
 
-### Analista Financiero | Contabilidad y Auditoría (ex-EY) | Análisis de Datos y Automatización
+**Analista Financiero Senior | Seguros | Finanzas, Datos y Automatización**
 
 Quito, Ecuador
 
-[Email](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300/) · GitHub: [COMPLETAR] · Portafolio: [COMPLETAR]
+[Email](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300) · [GitHub]([COMPLETAR]) · [Portafolio]([COMPLETAR])
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-en%20desarrollo-4479A1?style=flat)
-![US GAAP](https://img.shields.io/badge/US%20GAAP-1F3A5F?style=flat)
-![NIIF](https://img.shields.io/badge/NIIF-1F3A5F?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Macros-217346?logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4)
+![IA aplicada](https://img.shields.io/badge/IA_aplicada-Copilot_%7C_Claude-6E56CF)
+![US GAAP / NIIF](https://img.shields.io/badge/US_GAAP_%7C_NIIF-1F3A5F)
 
 ---
 
@@ -22,58 +22,95 @@ Quito, Ecuador
 - [Experiencia profesional](#experiencia-profesional)
 - [Proyectos destacados](#proyectos-destacados)
 - [Habilidades técnicas](#habilidades-técnicas)
-- [Educación y certificaciones](#educación-y-certificaciones)
+- [Educación](#educación)
+- [Certificaciones y cursos](#certificaciones-y-cursos)
 - [Idiomas](#idiomas)
 
 ---
 
 ## Perfil profesional
 
-Analista financiero con más de 10 años de experiencia entre **auditoría externa (EY)** y **finanzas corporativas en el sector asegurador**.
-Combino bases sólidas en **US GAAP, NIIF, reservas y reportería regulatoria** con **automatización y análisis de datos**.
-Uso **Python, Power Query y Excel** para eliminar trabajo manual, y herramientas de IA como **Microsoft Copilot** (agentes) y **Claude**.
-Aprendo rápido y aplico lo aprendido para mejorar procesos y la toma de decisiones.
+Ingeniero en Contabilidad y Auditoría (CPA) con **más de 9 años**
+en auditoría externa y finanzas del sector asegurador (EY y Pan American Life).
+
+Combino rigor **US GAAP/NIIF** con **automatización y analítica de datos**
+(SQL, Python, Power BI, Power Query).
+
+Como Analista Financiero Senior entrego análisis y reportes directamente
+a la **Gerencia Financiera** y al **área financiera regional**.
+
+Busco un rol de mayor responsabilidad en finanzas, control financiero
+o analítica financiera, con alcance regional.
 
 ---
 
 ## Experiencia profesional
 
-### Analista Financiero — Pan American Life Compañía de Seguros S.A.
+### Analista Financiero Senior · Pan American Life Compañía de Seguros S.A.
 
-**Mayo 2026 – Actualidad** · Quito, Ecuador
+*Quito · Mayo 2026 – Actualidad*
 
-- [COMPLETAR: análisis, reportes, presupuesto o proyecciones que realizas]
-- [COMPLETAR: uso de Python, Power Query, SQL, Power BI o Copilot en tu trabajo]
-- [COMPLETAR: resultado o impacto con métrica]
+- Elaboro **análisis financieros y reportes ejecutivos** para la Gerencia Financiera
+  y, en determinados casos, para el área financiera regional.
+- Convierto información contable en insumos para decidir: variaciones,
+  tendencias y resultados del negocio.
+- Automatizo extracción, conciliación y reportería con **Python** (incluido web scraping),
+  **Power Query**, macros y herramientas de IA (**Microsoft Copilot** y **Claude**).
+- Resultado: **al menos 6 horas semanales** liberadas de trabajo manual.
+- Garantizo el cumplimiento de la normativa vigente del sector asegurador.
 
-### Supervisor Contable — Pan American Life Compañía de Seguros S.A.
+### Supervisor Contable · Pan American Life Compañía de Seguros S.A.
 
-**Agosto 2020 – Mayo 2026** · Quito, Ecuador
+*Quito · Agosto 2020 – Abril 2026*
 
-- **Automaticé y optimicé** procesos de **comisiones** y **reservas** con **Excel (macros)**, **Power Query** y **Python**, reduciendo el tiempo de ejecución de [COMPLETAR] a [COMPLETAR] y minimizando errores operativos.
-- **Revisé y concilié** cuentas **GAAP** y locales: producción, inversiones, reservas y comisiones.
-- **Elaboré** las estructuras regulatorias para la **Superintendencia de Compañías, Valores y Seguros**.
-- **Preparé** trimestralmente el archivo **GAAP** y di soporte integral a la **auditoría externa**.
-- **Revisé** registros contables de rescates, cancelaciones, préstamos, proveedores, reembolsos y bancos.
-- **Elaboré** reportes contables mensuales y análisis de reservas y depreciaciones.
+- Automaticé el cálculo y la conciliación de comisiones y reservas con macros,
+  Power Query y Python: de **8 a 2 horas** de ejecución y menos errores operativos.
+- Desarrollé en **Python** el cálculo automatizado de reservas técnicas:
+  **RRC** (Reserva de Riesgos en Curso) e **IBNR** (siniestros ocurridos y no reportados).
+- Recuperé **3 a 4 horas por cada cierre contable mensual** gracias a la automatización.
+- Lideré la revisión y conciliación de cuentas **GAAP y locales**
+  (producción, inversiones, reservas y comisiones).
+- Coordiné **al menos una auditoría externa por año**, con **cero hallazgos materiales**
+  y cierres a tiempo.
+- Elaboré las estructuras regulatorias para la **Superintendencia de Compañías, Valores y Seguros**,
+  el archivo GAAP trimestral y los reportes contables mensuales.
+- Supervisé el registro de rescates, cancelaciones, préstamos, proveedores,
+  reembolsos y bancos, y el análisis de reservas y depreciaciones.
 
-### Senior de Auditoría Externa — Ernst & Young (EY)
+### Senior de Auditoría Externa · Ernst & Young (EY)
 
-**Enero 2016 – Diciembre 2019** · Quito, Ecuador
+*Quito · Enero 2016 – Diciembre 2019*
 
-- **Lideré** equipos de auditoría de [COMPLETAR] personas para compañías de seguros, logística, retail y telecomunicaciones.
-- **Revisé** inversiones, impuestos, reservas técnicas, anexos regulatorios y notas a los estados financieros.
-- **Elaboré** informes de auditoría externa, control interno y procedimientos convenidos.
+- Coordiné y supervisé equipos de auditoría: planificación, asignación de tareas
+  y revisión de papeles de trabajo.
+- Ejecuté **auditorías financieras** de compañías de seguros, logística,
+  retail y telecomunicaciones.
+- Revisé inversiones, impuestos, reservas técnicas, anexos regulatorios
+  y notas a los estados financieros.
+- Emití informes de auditoría externa y de control interno, comunicando hallazgos
+  a la **gerencia de las compañías y a los entes regulatorios**.
+- Participé en **auditorías especiales del sector asegurador** para
+  **Pan American Life** y **AMA América**, incluidos informes de
+  **procedimientos convenidos** exigidos por el marco regulatorio.
+
+<details>
+<summary>Otros clientes de auditoría en EY</summary>
+
+Yobel · Ottobock · Sylvania · Quala · Beiersdorf
+
+</details>
 
 ---
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Repositorio | Demo |
+| Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| **Extracción de datos (web scraping)** | Solución para extraer y ordenar datos de un sitio web local. [COMPLETAR resultado] | **Python** [COMPLETAR librerías] | [COMPLETAR] | — |
-| **Automatización de comisiones y reservas** | Proceso interno que reduce tiempos y errores. Código y datos confidenciales, no publicados. | **Excel (macros)**, **Power Query**, **Python** | Privado | — |
-| **[COMPLETAR: proyecto del curso de análisis de datos]** | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| **Dashboard de comisiones y estado de brokers** | Estado de cuentas y porcentajes de comisión en una sola vista, para Gerencia Financiera y Gerencia General | Power BI | Privado (datos corporativos) | No disponible |
+| **Automatización de reservas técnicas** | Cálculo automatizado de RRC e IBNR | Python | [COMPLETAR] | [COMPLETAR] |
+| **Dashboard de siniestralidad** | Proyecto demostrativo con datos de ejemplo | Power BI | [COMPLETAR] | [COMPLETAR] |
+| **Proyecto integrador SQL (dataset Olist, e-commerce)** | Carga de datos, modelo relacional con diagrama estrella y consultas analíticas | SQL Server | [COMPLETAR] | — |
+| **Web scraping** | Extracción y orden de datos que de otro modo se levantarían a mano | Python | [COMPLETAR] | [COMPLETAR] |
 
 ---
 
@@ -81,30 +118,37 @@ Aprendo rápido y aplico lo aprendido para mejorar procesos y la toma de decisio
 
 | Categoría | Herramientas y conocimientos |
 |---|---|
-| **Contabilidad y auditoría** | US GAAP, NIIF, auditoría externa, control interno, conciliaciones, reservas técnicas, reportería regulatoria |
-| **Análisis financiero** | Reportes financieros, análisis de reservas, estados financieros |
-| **Datos y automatización** | Python, Power Query, Excel avanzado (macros), web scraping |
-| **En desarrollo** | SQL, Power BI |
-| **IA aplicada** | Microsoft Copilot (creación de agentes), Claude |
+| **Datos y análisis** | SQL · Python (automatización y web scraping) · Power BI · Power Query · bases de datos |
+| **Excel** | Nivel avanzado · macros |
+| **IA aplicada a finanzas** | Microsoft Copilot (creación de agentes) · Claude |
+| **Contabilidad y finanzas** | US GAAP y NIIF · contabilidad de seguros · conciliación de cuentas · reservas técnicas e inversiones · cierres mensuales y trimestrales |
+| **Reportería y cumplimiento** | Reportes a gerencia y área regional · estructuras regulatorias (SCVS) · normativa del sector asegurador · procedimientos convenidos |
+| **Auditoría y control** | Auditoría financiera · control interno · coordinación de equipos y de auditorías externas |
 
 ---
 
-## Educación y certificaciones
+## Educación
 
-- **Ingeniería en Contabilidad y Auditoría – CPA** — Pontificia Universidad Católica del Ecuador · [COMPLETAR años]
-- **Curso de análisis de datos** — [COMPLETAR institución] · en curso, finaliza [COMPLETAR]
-- **Curso de actualización tributaria** — Ernst & Young · 2020
-- **Bachiller en Ciencias** — Colegio Bilingüe Virgilio Drouet · 2013
+- **Ingeniería en Contabilidad y Auditoría – CPA**
+  Pontificia Universidad Católica del Ecuador · 2021
+- **Bachiller en Ciencias**
+  Colegio Bilingüe Virgilio Drouet · 2013
 
-**Certificaciones:** [COMPLETAR]
+---
+
+## Certificaciones y cursos
+
+- **Diplomado en Big Data** · Universidad de las Américas (UDLA) · 2026
+- **Data Analyst en Ciencia de Datos** · Ciencia de Datos Ecuador · en curso, 2026
+- **Actualización tributaria** · Ernst & Young · 2020
 
 ---
 
 ## Idiomas
 
-- **Español** — Nativo
-- **Inglés** — Intermedio–avanzado
+- **Español:** nativo
+- **Inglés:** intermedio-alto
 
 ---
 
-*Última actualización: noviembre 2026*
+*Contacto: [hen71x@hotmail.com](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300)*
