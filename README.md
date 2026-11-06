@@ -1,4 +1,3 @@
-
 # Henry Gabriel Silva Ayala
 
 **Analista Financiero Senior | Seguros | Finanzas, Datos y Automatización**
@@ -13,7 +12,7 @@ Quito, Ecuador
 ![Excel](https://img.shields.io/badge/Excel_Macros-217346?logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4)
 ![IA aplicada](https://img.shields.io/badge/IA_aplicada-Copilot_%7C_Claude-6E56CF)
-![US GAAP / NIIF](https://img.shields.io/badge/US_GAAP_%7C_NIIF-1F3A5F)
+![US GAAP | Seguros](https://img.shields.io/badge/US_GAAP_%7C_Seguros-1F3A5F)
 
 ---
 
@@ -34,7 +33,7 @@ Quito, Ecuador
 Ingeniero en Contabilidad y Auditoría (CPA) con **más de 9 años**
 en auditoría externa y finanzas del sector asegurador (EY y Pan American Life).
 
-Combino rigor **US GAAP/NIIF** con **automatización y analítica de datos**
+Combino rigor **US GAAP** con **automatización y analítica de datos**
 (SQL, Python, Power BI, Power Query).
 
 Como Analista Financiero Senior entrego análisis y reportes directamente
@@ -64,19 +63,22 @@ o analítica financiera, con alcance regional.
 
 *Quito · Agosto 2020 – Abril 2026*
 
-- Automaticé el cálculo y la conciliación de comisiones y reservas con macros,
-  Power Query y Python: de **8 a 2 horas** de ejecución y menos errores operativos.
-- Desarrollé en **Python** el cálculo automatizado de reservas técnicas:
-  **RRC** (Reserva de Riesgos en Curso) e **IBNR** (siniestros ocurridos y no reportados).
-- Recuperé **3 a 4 horas por cada cierre contable mensual** gracias a la automatización.
+- Ejercí la **supervisión contable y administrativa** de la aseguradora,
+  con énfasis en **control y revisión**: reservas, comisiones, proveedores,
+  retenciones, cuadres y conciliaciones.
 - Lideré la revisión y conciliación de cuentas **GAAP y locales**
-  (producción, inversiones, reservas y comisiones).
-- Coordiné **al menos una auditoría externa por año**, con **cero hallazgos materiales**
+  (producción, inversiones, reservas y comisiones), asegurando cuadres correctos
   y cierres a tiempo.
+- Controlé y revisé los registros de rescates, cancelaciones, préstamos,
+  proveedores, reembolsos y bancos, y el análisis de reservas y depreciaciones.
+- Coordiné **al menos una auditoría externa por año**, con **cero hallazgos materiales**.
 - Elaboré las estructuras regulatorias para la **Superintendencia de Compañías, Valores y Seguros**,
   el archivo GAAP trimestral y los reportes contables mensuales.
-- Supervisé el registro de rescates, cancelaciones, préstamos, proveedores,
-  reembolsos y bancos, y el análisis de reservas y depreciaciones.
+- Automaticé el cálculo y la conciliación de comisiones y reservas con macros,
+  Power Query y Python: de **8 a 2 horas** de ejecución, **3 a 4 horas menos en cada
+  cierre mensual** y menos errores operativos.
+- Desarrollé en **Python** el cálculo automatizado de reservas técnicas:
+  **RRC** (Reserva de Riesgos en Curso) e **IBNR** (siniestros ocurridos y no reportados).
 
 ### Senior de Auditoría Externa · Ernst & Young (EY)
 
@@ -122,7 +124,7 @@ Yobel · Ottobock · Sylvania · Quala · Beiersdorf
 | **Datos y análisis** | SQL · Python (automatización y web scraping) · Power BI · Power Query · bases de datos |
 | **Excel** | Nivel avanzado · macros |
 | **IA aplicada a finanzas** | Microsoft Copilot (creación de agentes) · Claude |
-| **Contabilidad y finanzas** | US GAAP y NIIF · contabilidad de seguros · conciliación de cuentas · reservas técnicas e inversiones · cierres mensuales y trimestrales |
+| **Contabilidad y finanzas** | US GAAP · contabilidad de seguros · conciliación de cuentas · reservas técnicas e inversiones · cierres mensuales y trimestrales |
 | **Reportería y cumplimiento** | Reportes a gerencia y área regional · estructuras regulatorias (SCVS) · normativa del sector asegurador · procedimientos convenidos |
 | **Auditoría y control** | Auditoría financiera · control interno · coordinación de equipos y de auditorías externas |
 
