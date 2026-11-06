@@ -1,5 +1,4 @@
 
-
 # Henry Gabriel Silva Ayala
 
 **Analista Financiero Senior | Seguros | Finanzas, Datos y Automatización**
@@ -106,13 +105,13 @@ Yobel · Ottobock · Sylvania · Quala · Beiersdorf
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Repo |
+| Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
 | **Dashboard de comisiones y estado de brokers** | Estado de cuentas y porcentajes de comisión en una sola vista, para Gerencia Financiera y Gerencia General | Power BI | Privado (datos corporativos) | No disponible |
-| **Automatización de reservas técnicas** | Cálculo automatizado de RRC e IBNR | Python | Privado (datos corporativos) |
-| **Dashboard de siniestralidad** | Proyecto demostrativo con datos de ejemplo | Power BI | Privado (datos corporativos) |
-| **Proyecto integrador SQL (dataset Olist, e-commerce)** | Carga de datos, modelo relacional con diagrama estrella y consultas analíticas | SQL Server | [COMPLETAR] |
-| **Web scraping** | Extracción y orden de datos que de otro modo se levantarían a mano | Python | Publico (extracción data de la web) |
+| **Automatización de reservas técnicas** | Cálculo automatizado de RRC e IBNR | Python | Privado (datos corporativos) | - |
+| **Dashboard de siniestralidad** | Proyecto demostrativo con datos de ejemplo | Power BI | Privado (datos corporativos) | - |
+| **Proyecto integrador SQL (dataset Olist, e-commerce)** | Carga de datos, modelo relacional con diagrama estrella y consultas analíticas | SQL Server | Privado (datos corporativos) | — |
+| **Web scraping** | Extracción y orden de datos que de otro modo se levantarían a mano | Python | Publico (datos web) | - |
 
 ---
 
@@ -154,4 +153,3 @@ Yobel · Ottobock · Sylvania · Quala · Beiersdorf
 ---
 
 *Contacto: [hen71x@hotmail.com](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300)*
-
