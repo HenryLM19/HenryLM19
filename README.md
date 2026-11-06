@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/foto-perfil.png" alt="Henry Gabriel Silva Ayala" width="140">
-</p>
+
 
 # Henry Gabriel Silva Ayala
 
