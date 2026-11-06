@@ -141,8 +141,11 @@ Yobel · Ottobock · Sylvania · Quala · Beiersdorf
 
 ## Certificaciones y cursos
 
-- **Diplomado en Big Data** · Universidad de las Américas (UDLA) · 2026
+- **Diplomado en Big Data y Visualización de Datos** · Universidad de las Américas (UDLA) · 2026
 - **Data Analyst en Ciencia de Datos** · Ciencia de Datos Ecuador · en curso, 2026
+- **Analítica y Modelado de Datos con SQL** · Ciencia de Datos Ecuador · oct. 2026
+- **Análisis de datos e Inteligencia de negocios con Power BI** · Ciencia de Datos Ecuador · sept. 2026
+- **Excel aplicado a la analítica de datos** · Ciencia de Datos Ecuador · ago. 2026
 - **Actualización tributaria** · Ernst & Young · 2020
 
 ---
