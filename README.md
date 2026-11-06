@@ -5,7 +5,7 @@
 
 Quito, Ecuador
 
-[Email](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300) · [GitHub]([COMPLETAR]) · [Portafolio]([COMPLETAR])
+[Email](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300) 
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
