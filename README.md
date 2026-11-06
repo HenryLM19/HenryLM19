@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/foto-perfil.png" alt="Henry Gabriel Silva Ayala" width="140">
+</p>
+
 # Henry Gabriel Silva Ayala
 
 **Analista Financiero Senior | Seguros | Finanzas, Datos y Automatización**
@@ -152,3 +156,4 @@ Yobel · Ottobock · Sylvania · Quala · Beiersdorf
 ---
 
 *Contacto: [hen71x@hotmail.com](mailto:hen71x@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-silva-029827300)*
+
